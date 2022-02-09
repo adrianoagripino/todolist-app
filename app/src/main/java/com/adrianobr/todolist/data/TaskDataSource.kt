@@ -1,4 +1,4 @@
-package com.adrianobr.todolist.datasource
+package com.adrianobr.todolist.data
 
 import com.adrianobr.todolist.model.Task
 

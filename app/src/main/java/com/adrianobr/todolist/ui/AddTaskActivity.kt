@@ -4,7 +4,7 @@ import android.app.Activity
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.adrianobr.todolist.databinding.ActivityAddTaskBinding
-import com.adrianobr.todolist.datasource.TaskDataSource
+import com.adrianobr.todolist.data.TaskDataSource
 import com.adrianobr.todolist.extensions.format
 import com.adrianobr.todolist.extensions.text
 import com.adrianobr.todolist.model.Task

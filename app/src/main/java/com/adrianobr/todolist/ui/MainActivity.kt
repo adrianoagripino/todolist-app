@@ -3,13 +3,10 @@ package com.adrianobr.todolist.ui
 import android.app.Activity
 import android.content.Intent
 import android.os.Bundle
-import android.util.Log
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
-import com.adrianobr.todolist.ui.AddTaskActivity
 import com.adrianobr.todolist.databinding.ActivityMainBinding
-import com.adrianobr.todolist.datasource.TaskDataSource
-import com.adrianobr.todolist.ui.TaskListAdapter
+import com.adrianobr.todolist.data.TaskDataSource
 
 class MainActivity : AppCompatActivity() {
 
