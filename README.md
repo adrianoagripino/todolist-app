@@ -6,4 +6,4 @@
 
 > git clone https://github.com/adrianoagripino/todolist-app.git
 
-<img src="https://github.com/adrianoagripino/todolist-app/blob/main/Screen-01.png" width="50%" height="50%"><img src="https://github.com/adrianoagripino/todolist-app/blob/main/Screen-01.png" width="50%" height="50%"><img src="https://github.com/adrianoagripino/todolist-app/blob/main/Screen-03.png" width="50%" height="50%">
+<img src="https://github.com/adrianoagripino/todolist-app/blob/main/Screen-01.png" width="40%" height="40%"><img src="https://github.com/adrianoagripino/todolist-app/blob/main/Screen-02.png" width="40%" height="40%"><img src="https://github.com/adrianoagripino/todolist-app/blob/main/Screen-03.png" width="40%" height="40%">
